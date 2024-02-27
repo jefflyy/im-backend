@@ -1,0 +1,16 @@
+__pycache__/
+**/migrations/
+db.sqlite3
+database/
+conf/
+
+.coverage
+coverage-reports/
+xunit-reports/
+
+.DS_Store
+.pytest_cache
+
+# IDE
+.idea/
+
